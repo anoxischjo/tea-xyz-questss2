@@ -1,0 +1,22 @@
+{
+  "name": "anoxischjo",
+  "version": "1.0.0",
+  "description": "anoxischjo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anoxischjo/tea-xyz-questss2.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "anoxischjo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anoxischjo/tea-xyz-questss2/issues"
+  },
+  "homepage": "https://github.com/anoxischjo"
+}
